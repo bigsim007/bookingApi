@@ -4,7 +4,7 @@ To build run
 
 mvn clean install
 
-After success build create the docker image buy running
+After success build create the docker image by running
 
 # docker build -t bookingapi:1 .
 
